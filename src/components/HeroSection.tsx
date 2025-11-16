@@ -80,7 +80,7 @@ const HeroSection = () => {
           playsInline
           className="w-full h-full object-cover opacity-40 mix-blend-luminosity"
         >
-          <source src="https://assets.mixkit.co/videos/preview/mixkit-children-playing-in-a-park-4563-large.mp4" type="video/mp4" />
+          <source src="https://videos.pond5.com/african-poor-children-footage-000362353_main_xxl.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/40 to-background" />
         <div className="absolute inset-0 bg-gradient-depth opacity-60" />
